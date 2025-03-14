@@ -4,7 +4,7 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Warsaw",
     scale: "C",
   },
   clock: {
@@ -103,7 +103,7 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "Text",
       background_url: "src/img/banners/cbg-07.gif",
       categories: [
         {
@@ -190,7 +190,7 @@ const default_config = {
       ],
     },
     {
-      name: "chi ll",
+      name: "Dialogy",
       background_url: "src/img/banners/cbg-08.gif",
       categories: [
         {
